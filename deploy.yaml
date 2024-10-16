@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: react-app
-          image: achraf899/react-app:23
+          image: achraf899/react-app:24
           ports:
             - containerPort: 3000
 
